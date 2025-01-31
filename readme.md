@@ -1,0 +1,4 @@
+## Projeto Site Links
+
+### Descrição:
+Uma página web estática utilizando HTML, CSS e Bootstrap, a qual foi criada como um projeto do curso de Frontend da Comunidade Dev Completo. Este projeto tem como objetivo demonstrar os conhecimentos adiquiridos até o momento. Ao longo do tempo eu irei modificar este projeto incluindo novos conhecimentos para estilização e novas features. Na pasta assets/photos terá uma imagem de como o projeto estava em seu commit inicial, e entrando no arquivo index.html atual, você poderá observar o que mudou. Pode também acessar a página por este link <https://laisrabello.github.io/projeto-site-links/>
